@@ -1,0 +1,23 @@
+/*
+ * Copyright (c) 2020, Nordic Semiconductor ASA
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/*
+ * Example configuration of a BME280 device on an Arduino I2C bus.
+ *
+ * Device address 0x77 is assumed. Your device may have a different
+ * address; check your device documentation if unsure.
+ */
+
+&i2c0{
+	compatible = "nordic,nrf-twim";
+    	status = "ok";
+    	clock-frequency = <I2C_BITRATE_STANDARD>;
+    	bme280@76 {
+        	compatible = "bosch,bme280";
+        	reg = <0x76>;
+        	label = "BME280";
+    };
+};

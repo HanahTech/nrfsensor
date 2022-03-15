@@ -1,0 +1,24 @@
+zephyr/lib/libc/minimal/CMakeFiles/lib__libc__minimal.dir/source/stdout/stdout_console.c.obj: \
+ C:/sourcecode_root/v1.9.1/zephyr/lib/libc/minimal/source/stdout/stdout_console.c \
+ C:/sourcecode_root/lanware-nrf/customer/delivery/button/build_nrf52840dk_nrf52840/zephyr/include/generated/autoconf.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/toolchain/zephyr_stdint.h \
+ C:/sourcecode_root/v1.9.1/zephyr/lib/libc/minimal/include/stdio.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/toolchain.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/toolchain/gcc.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/toolchain/common.h \
+ C:/sourcecode_root/v1.9.1/zephyr/lib/libc/minimal/include/stdbool.h \
+ c:\sourcecode_root\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdarg.h \
+ c:\sourcecode_root\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stddef.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/sys/libc-hooks.h \
+ zephyr/include/generated/syscalls/libc-hooks.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/tracing/tracing_syscall.h \
+ zephyr/include/generated/syscall_list.h \
+ C:/sourcecode_root/v1.9.1/zephyr/lib/libc/minimal/include/stdint.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/syscall.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/arch/syscall.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/arch/arm/aarch32/syscall.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/zephyr/types.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/linker/sections.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/linker/section_tags.h \
+ C:/sourcecode_root/v1.9.1/zephyr/include/syscall_handler.h \
+ C:/sourcecode_root/v1.9.1/zephyr/lib/libc/minimal/include/string.h
